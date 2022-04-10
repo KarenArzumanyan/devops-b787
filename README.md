@@ -1,5 +1,5 @@
 # devops-b787
-DevOps part B7.8.7
+DevOps part B7.8.7 (Docker, Python)
 
 
 Python Test
